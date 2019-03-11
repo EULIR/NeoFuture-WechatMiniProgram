@@ -1,10 +1,6 @@
 <!--pages/episode1/index.wxml-->
-<txv-video 
-  vid="s08211rqipb"   
-  playerid="txv1" 
-  width="100%"    
-  height="{{'auto'}}" 
-  autoplay="{{true}}"> 
-  <cover-view class='txv-video-slot'>video slot</cover-view>
-</txv-video>
-<text>hafah</text>
+<view class='h1'>
+  <text>码未课堂第一集-计算的起源</text>
+</view>
+<txv-video vid="{{vid}}" playerid="txv1"></txv-video>
+

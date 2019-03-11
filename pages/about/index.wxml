@@ -1,2 +1,4 @@
 <!--pages/about/index.wxml-->
-<text>pages/about/index.wxml</text>
+<view class='banner'>
+  <image src='../../img/about-title.png' mode='widthFix'></image>
+</view>

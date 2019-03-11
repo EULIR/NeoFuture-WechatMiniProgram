@@ -1,1 +1,5 @@
 /* pages/about/index.wxss */
+
+.banner image {
+  width: 100%;
+}

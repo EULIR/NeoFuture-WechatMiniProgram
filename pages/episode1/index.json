@@ -1,6 +1,6 @@
 {
   "usingComponents": {
-    "txv-video": "plugin://tencentvideo/video"
+    "txv-video": "plugin://tencentVideo/video"
   },
   "navigationBarTitleText": "第一集-计算的起源"
 }
