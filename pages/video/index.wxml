@@ -1,0 +1,35 @@
+<!--pages/video/index.wxml-->
+<view class='banner'>
+  <image src='../../img/banner.png' mode='widthFix'></image>
+</view>
+<view class='h2'>
+  <text>码未课堂选集</text>
+</view>
+<view class='episodes'>
+  <view>
+    <navigator url='../episode1/index'>
+      <image src='../../img/E1.jpg' mode='widthFix'></image>
+      <text>计算的起源</text>
+    </navigator>
+  </view>
+  <view>
+    <navigator url='../episode2/index'>
+      <image src='../../img/E2.jpg' mode='widthFix'></image>
+      <text>二进制</text>
+    </navigator>
+  </view>
+</view>
+<view class='episodes'>
+  <view>
+    <navigator url='../episode3/index'>
+      <image src='../../img/E3.jpg' mode='widthFix'></image>
+      <text>互联网与物联网</text>
+    </navigator>
+  </view>
+  <view>
+    <navigator url='../episode4/index'>
+      <image src='../../img/E4.jpg' mode='widthFix'></image>
+      <text>人工智能</text>
+    </navigator>
+  </view>
+</view>

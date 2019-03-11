@@ -1,0 +1,4 @@
+/* pages/episode1/index.wxss */
+video{
+  width: 750rpx;
+}

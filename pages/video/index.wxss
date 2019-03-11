@@ -1,0 +1,35 @@
+/* pages/video/index.wxss */
+
+.banner {
+  width: 750rpx;
+}
+
+.banner image {
+  width: 100%;
+}
+
+.h2 {
+  font: bold 1rem/1.8rem 微软雅黑;
+  text-indent: 1rem;
+  margin: 0.3rem 0;
+}
+
+.episodes {
+  display: flex;
+  justify-content: space-around;
+}
+
+.episodes view {
+  width: 45%;
+  text-align: center;
+  font: 0.75rem/1.2rem 微软雅黑;
+}
+
+.episodes view image {
+  width: 100%;
+}
+
+.episodes view text{
+  font: 0.75rex/1.2rem 微软雅黑;
+
+}

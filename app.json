@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/video/index",
+    "pages/index/index",
+    "pages/about/index",
+    "pages/episode1/index",
+    "pages/episode2/index",
+    "pages/episode3/index",
+    "pages/episode4/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ee591f",
+    "navigationBarTitleText": "码未课堂",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#515151",
+    "selectedColor": "#ee591f",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "img/icon-index-press.png",
+        "iconPath": "img/icon-index.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "img/icon-video-press.png",
+        "iconPath": "img/icon-video.png",
+        "pagePath": "pages/video/index",
+        "text": "频道"
+      },
+      {
+        "selectedIconPath": "img/icon-about-press.png",
+        "iconPath": "img/icon-about.png",
+        "pagePath": "pages/about/index",
+        "text": "关于"
+      }
+    ]
+  },
+  "plugins": {
+    "tencentVideo": {
+      "version": "1.2.4",
+      "provider": "wxa75efa648b60994b"
+    }
+  }
+}
