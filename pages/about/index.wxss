@@ -3,3 +3,66 @@
 .banner image {
   width: 100%;
 }
+
+.divLine {
+  background: #E0E3DA;
+  width: 100%;
+  height: 5rpx;
+}
+
+.h1 {
+  font: bold 1rem/1.8rem 微软雅黑;
+  text-indent: 1rem;
+  margin: 0.3rem 0;
+}
+
+.txt {
+  text-align: justify;
+}
+
+.txt view {
+  font: 0.75rem/1.5rem 宋体;
+  text-indent: 20rpx;
+  letter-spacing: 2rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  margin-left: 20rpx;
+  padding: 20rpx 20rpx;
+}
+
+.contact{
+  text-align: justify;
+}
+
+.contact view{
+  font: 0.9rem/1.8rem 微软雅黑;
+  text-indent: 30rpx;
+  letter-spacing: 2rpx;
+  display: flex;
+}
+
+.member {
+  display: flex;
+  justify-content: space-around;
+}
+
+.member view {
+  width: 30%;
+  text-align: center;
+  font: 0.75rem/1.2rem 微软雅黑;
+}
+
+.member view image {
+  width: 100%;
+}
+
+.member view text{
+  font: 0.75rex/1.2rem 微软雅黑;
+}
+
+.link {
+  color: #1195db;
+}
+

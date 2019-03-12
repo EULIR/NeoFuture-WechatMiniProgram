@@ -9,3 +9,21 @@ video {
   text-indent: 1rem;
   margin: 0.3rem 0;
 }
+
+.txt {
+  text-align: justify;
+}
+
+.txt view {
+  font: 0.75rem/1.5rem 宋体;
+  text-indent: 20rpx;
+  letter-spacing: 2rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  height: 160rpx;
+  margin-top: 20rpx;
+  margin-left: 20rpx;
+  padding: 20rpx 20rpx;
+}

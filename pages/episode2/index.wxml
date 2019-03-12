@@ -1,2 +1,16 @@
 <!--pages/episode2/index.wxml-->
-<text>pages/episode2/index.wxml</text>
+<view class='h1'>
+  <text>码未课堂第二集-二进制</text>
+</view>
+<txv-video vid="{{vid}}" playerid="txv1"></txv-video>
+<view class='txt'>
+  <view>
+    <text>优美动听的音乐是如何播出来的呢？精美的网页是如何出现在网络上的呢？手机又是如何收到来自他人的信息的呢？今天我们就要来聊一聊计算机世界的基石–二进制。</text>
+  </view>
+  <view>
+    <text>什么是二进制？二进制拿来做什么用的呢？计算机为什么要用二进制呢？你是否想过简简单单的0和1背后有着什么样的神秘力量？</text>
+  </view>
+  <view>
+    <text>「码未课堂第二集-二进制」带你穿越在01代码的世界中，感受最深邃的计算机魅力。</text>
+  </view>
+</view>

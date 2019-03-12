@@ -2,3 +2,59 @@
 <view class='banner'>
   <image src='../../img/about-title.png' mode='widthFix'></image>
 </view>
+<view class='h1'>
+  <text>关于我们</text>
+  <view class="divLine"></view>
+</view>
+<view class='txt'>
+  <view>
+    <text>码未课堂由来自成都的三位高中生创立，在码未课堂，我们坚信任何人都应该拥有获得学习计算机科学知识的机会。我们通过视频的方式将美好的计算机科学带给亲爱的你。</text>
+  </view>
+  <view>
+    <text>码未课堂的内容从硬件到软件、逻辑、人工智能、黑客、算法、机器人等等多种多样千奇百怪的计算机知识，你也许从来没有想过计算机背后的世界如此丰富精彩，在码未课堂我们将带你一探究竟。</text>
+  </view>
+</view>
+<view class='h1'>
+  <text>成员介绍</text>
+  <view class="divLine"></view>
+</view>
+<view class='member'>
+  <view>
+    <image src='../../img/li.jpg' mode='widthFix'></image>
+    <text>Andy Li\n联合创始人/站长</text>
+  </view>
+  <view>
+    <image src='../../img/ma.jpg' mode='widthFix'></image>
+    <text>William Ma\n联合创始人/编辑/动画师</text>
+  </view>
+  <view>
+    <image src='../../img/jiang.jpg' mode='widthFix'></image>
+    <text>Fred Jiang\n联合创始人/外联总监</text>
+  </view>
+</view>
+<view class='h1'>
+  <text>联系方式</text>
+  <view class="divLine"></view>
+</view>
+<view class='contact'>
+  <view>
+    <text>官方网站：</text>
+    <text class='link' selectable='true'>www.neofuture.tech</text>
+  </view>
+  <view>
+    <text>电子邮件：</text>
+    <text class='link' selectable='true'>info@neofuture.tech</text>
+  </view>
+  <view>
+    <text>微信公众号：</text>
+    <text selectable='true'>码未课堂NeoFuture</text>
+  </view>
+  <view>
+    <text>领英LinkedIn：</text>
+    <text selectable='true'>Neo Future 码未</text>
+  </view>
+  <view>
+    <text>腾讯视频：</text>
+    <text selectable='true'>码未课堂</text>
+  </view>
+</view>
