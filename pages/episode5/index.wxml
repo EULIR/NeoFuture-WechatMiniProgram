@@ -1,0 +1,10 @@
+<!--pages/episode5/index.wxml-->
+<view class='h1'>
+  <text>码未课堂第五集-中央处理器</text>
+</view>
+<view class='img'>
+  <image src='../../img/E5.jpg' mode='widthFix'></image>
+</view>
+<view class='h2'>
+  <text>COMING SOON  敬请期待</text>
+</view>
