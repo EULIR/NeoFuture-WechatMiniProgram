@@ -2,9 +2,15 @@
 <view class='h1'>
   <text>码未课堂第三集-互联网与物联网</text>
 </view>
-<view class='img'>
-  <image src='../../img/E3.jpg' mode='widthFix'></image>
-</view>
-<view class='h2'>
-  <text>COMING SOON  敬请期待</text>
+<txv-video vid="{{vid}}" playerid="txv1"></txv-video>
+<view class='txt'>
+  <view>
+    <text>今天你上网了吗？我们每天都在跟网络打交道：无论你是上班、学习、娱乐，互联网总是出现在我们的生活当中。那么，互联网究竟是什么呢？互联网是如何形成的呢？互联网有些什么样的应用和发展前景呢？</text>
+  </view>
+  <view>
+    <text>你也许听说过物联网这个名字，但是这是个什么玩意儿呢？它是互联网的兄弟吗？它的存在又能给我们带来些什么呢？</text>
+  </view>
+  <view>
+    <text>「码未课堂第三集-互联网与物联网」穿越层层网络，带你探究互联网最真实的面目。</text>
+  </view>
 </view>
