@@ -1,6 +1,6 @@
 <!--pages/episode5/index.wxml-->
 <view class='h1'>
-  <text>码未课堂第五集-中央处理器</text>
+  <text>码未课堂第五集-计算机安全</text>
 </view>
 <view class='img'>
   <image src='../../img/E5.jpg' mode='widthFix'></image>

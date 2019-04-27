@@ -37,7 +37,7 @@
   <view>
     <navigator url='../episode5/index'>
       <image src='../../img/E5.jpg' mode='widthFix'></image>
-      <text>中央处理器</text>
+      <text>计算机安全</text>
     </navigator>
   </view>
   <view>
