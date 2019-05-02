@@ -7,7 +7,8 @@
     "pages/episode2/index",
     "pages/episode3/index",
     "pages/episode4/index",
-    "pages/episode5/index"
+    "pages/episode5/index",
+    "pages/episode6/index"
   ],
   "window": {
     "backgroundTextStyle": "light",

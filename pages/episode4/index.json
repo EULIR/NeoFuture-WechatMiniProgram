@@ -1,4 +1,6 @@
 {
-  "usingComponents": {},
+  "usingComponents": {
+    "txv-video": "plugin://tencentVideo/video"
+  },
   "navigationBarTitleText": "第四集-人工智能"
 }

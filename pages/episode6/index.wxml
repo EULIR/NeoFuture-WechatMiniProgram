@@ -1,0 +1,10 @@
+<!--pages/episode5/index.wxml-->
+<view class='h1'>
+  <text>码未课堂第六集-图灵</text>
+</view>
+<view class='img'>
+  <image src='../../img/E6.jpg' mode='widthFix'></image>
+</view>
+<view class='h2'>
+  <text>COMING SOON  敬请期待</text>
+</view>

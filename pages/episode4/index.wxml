@@ -1,10 +1,16 @@
-<!--pages/episode4/index.wxml-->
+<!--pages/episode3/index.wxml-->
 <view class='h1'>
   <text>码未课堂第四集-人工智能</text>
 </view>
-<view class='img'>
-  <image src='../../img/E4.jpg' mode='widthFix'></image>
-</view>
-<view class='h2'>
-  <text>COMING SOON  敬请期待</text>
+<txv-video vid="{{vid}}" playerid="txv1"></txv-video>
+<view class='txt'>
+  <view>
+    <text>想必在当今这个时代你已经被“人工智能”刷了无数次屏了吧！从Alpha Go到谷歌无人驾驶汽车，人工智能仿佛随时都能出现在新闻头条上。</text>
+  </view>
+  <view>
+    <text>可是，人工智能和我们有什么切身关系呢？人工智能给我们带来了什么便利呢？人工智能在哪儿呢？人工智能会毁灭世界吗？其实，人工智能就在我们身边，就在我们手边。你别不信，看完码未课堂第四集你就什么都知道啦！</text>
+  </view>
+  <view>
+    <text>「码未课堂第四集-人工智能」和你一起向AI招手！</text>
+  </view>
 </view>

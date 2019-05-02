@@ -41,9 +41,9 @@
     </navigator>
   </view>
   <view>
-    <navigator url=''>
-      <image src='' mode='widthFix'></image>
-      <text></text>
+    <navigator url='../episode6/index'>
+      <image src='../../img/E6.jpg' mode='widthFix'></image>
+      <text>图灵</text>
     </navigator>
   </view>
 </view>

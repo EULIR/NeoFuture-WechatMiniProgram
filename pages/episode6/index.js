@@ -1,11 +1,11 @@
-// pages/episode3/index.js
+// pages/episode5/index.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    vid: "i0866hdax9y"
+
   },
 
   /**
