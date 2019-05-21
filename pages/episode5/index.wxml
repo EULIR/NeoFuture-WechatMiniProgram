@@ -2,9 +2,15 @@
 <view class='h1'>
   <text>码未课堂第五集-计算机安全</text>
 </view>
-<view class='img'>
-  <image src='../../img/E5.jpg' mode='widthFix'></image>
-</view>
-<view class='h2'>
-  <text>COMING SOON  敬请期待</text>
+<txv-video vid="{{vid}}" playerid="txv1"></txv-video>
+<view class='txt'>
+  <view>
+    <text>二十一世纪中，信息时代里，我们无时不刻不面临着信息安全的问题。今天帐户又被盗了？明天服务器又宕机了？我们需要一个强大的帮手来保护我们的信息安全。</text>
+  </view>
+  <view>
+    <text>计算机安全就是这样一系列的措施和策略，我们使用不同的方式共同保护我们计算机的保密性、完整性、可用性。在这样的情况下我们的信息才能非常安全地被使用。</text>
+  </view>
+  <view>
+    <text>在今天的「码未课堂第五集-计算机安全」中，我们就带你看一看三大计算机安全策略！</text>
+  </view>
 </view>

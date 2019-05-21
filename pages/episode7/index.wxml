@@ -1,9 +1,9 @@
 <!--pages/episode5/index.wxml-->
 <view class='h1'>
-  <text>码未课堂第六集-图灵</text>
+  <text>码未课堂第七集-集成电路</text>
 </view>
 <view class='img'>
-  <image src='https://www.neofuture.tech/wp-content/uploads/E6.jpg' mode='widthFix'></image>
+  <image src='https://www.neofuture.tech/wp-content/uploads/E7.jpg' mode='widthFix'></image>
 </view>
 <view class='h2'>
   <text>COMING SOON  敬请期待</text>

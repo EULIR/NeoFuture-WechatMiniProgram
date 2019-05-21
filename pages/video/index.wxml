@@ -8,13 +8,13 @@
 <view class='episodes'>
   <view>
     <navigator url='../episode1/index'>
-      <image src='../../img/E1.jpg' mode='widthFix'></image>
+      <image src='https://www.neofuture.tech/wp-content/uploads/2018/12/E1.jpg' mode='widthFix'></image>
       <text>计算的起源</text>
     </navigator>
   </view>
   <view>
     <navigator url='../episode2/index'>
-      <image src='../../img/E2.jpg' mode='widthFix'></image>
+      <image src='https://www.neofuture.tech/wp-content/uploads/2018/12/E2.jpg' mode='widthFix'></image>
       <text>二进制</text>
     </navigator>
   </view>
@@ -22,13 +22,13 @@
 <view class='episodes'>
   <view>
     <navigator url='../episode3/index'>
-      <image src='../../img/E3.jpg' mode='widthFix'></image>
+      <image src='https://www.neofuture.tech/wp-content/uploads/2018/12/E3.jpg' mode='widthFix'></image>
       <text>互联网与物联网</text>
     </navigator>
   </view>
   <view>
     <navigator url='../episode4/index'>
-      <image src='../../img/E4.jpg' mode='widthFix'></image>
+      <image src='https://www.neofuture.tech/wp-content/uploads/E4.png' mode='widthFix'></image>
       <text>人工智能</text>
     </navigator>
   </view>
@@ -36,14 +36,28 @@
 <view class='episodes'>
   <view>
     <navigator url='../episode5/index'>
-      <image src='../../img/E5.jpg' mode='widthFix'></image>
+      <image src='https://www.neofuture.tech/wp-content/uploads/E5.jpg' mode='widthFix'></image>
       <text>计算机安全</text>
     </navigator>
   </view>
   <view>
     <navigator url='../episode6/index'>
-      <image src='../../img/E6.jpg' mode='widthFix'></image>
+      <image src='https://www.neofuture.tech/wp-content/uploads/E6.jpg' mode='widthFix'></image>
       <text>图灵</text>
+    </navigator>
+  </view>
+</view>
+<view class='episodes'>
+  <view>
+    <navigator url='../episode7/index'>
+      <image src='https://www.neofuture.tech/wp-content/uploads/E7.jpg' mode='widthFix'></image>
+      <text>集成电路</text>
+    </navigator>
+  </view>
+  <view>
+    <navigator url=''>
+      <image src='' mode='widthFix'></image>
+      <text></text>
     </navigator>
   </view>
 </view>
